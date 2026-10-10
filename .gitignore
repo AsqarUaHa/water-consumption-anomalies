@@ -1,0 +1,9 @@
+# исходные данные задания не публикуются — ноутбук скачивает их сам
+data/
+*.csv
+*.zip
+results/daily_consumption.csv.gz
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.idea/
